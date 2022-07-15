@@ -1,0 +1,30 @@
+body {
+    font-size: 16px;
+  }
+  
+  
+  h1 {
+      font-size: 65px;
+      color: orange;
+      font-family: sans-serif;
+  }
+  ul {
+  background-color: red;
+  }
+  p {
+    font-weight: 600;
+    font-size: 3em;
+  }        
+  .favorite-colors {
+    background-color: aqua;
+  }
+  
+  #yellow-line {
+    color: yellow;
+  }
+  #red-line {
+    color: red;
+  }
+  #brown-line {
+    color: brown;
+  }
