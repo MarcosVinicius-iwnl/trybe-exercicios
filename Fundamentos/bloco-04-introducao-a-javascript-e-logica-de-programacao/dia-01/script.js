@@ -164,7 +164,7 @@ console.log(lucroTotal)
 
 // Exercício 11
 
-let salarioBruto = 0;
+const salarioBruto = 5000 ;
 let salarioLiquido = 0
 
 let inss1 = 0.08 * salarioBruto;
@@ -201,3 +201,5 @@ if (salarioLiquido <= 0) {
 } else if (salarioLiquido > 4664.68) {
   salarioLiquido = salarioLiquido - impostoDeRenda4;
 }
+
+console.log("O salário líquido é: " + salarioLiquido);
